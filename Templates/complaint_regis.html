@@ -1,0 +1,25 @@
+<html>
+<title>ComplaintRegister</title>
+<head><center>
+<h1>ABC LOGISTICS AND CONTAINER SERVICES INDIA PVT LTD</h1>
+<h2>Complaint Registration Form</h2>
+</centre></head>
+<body>
+<!--This is my first web application designed in Python -->
+ <form action = "/regis" method="POST">  
+   <h2> <table>  
+        <tr><td>Name</td><td><input type="text" size=42 name="name"></td></tr>  
+        <tr><td>Invoice Reference Number</td><td><input type="text" name="invref"></td></tr>  
+        <tr><td>Invoice Date</td><td><input type="date" name="invdate"></td></tr>  
+        <tr><td>Product Name</td><td><input type="text" name="pname"></td></tr>  
+        <tr><td>Nature Of The Complaint</td><td><textarea name="nature" cols="40" rows="5"></textarea></td></tr>  
+        <tr><td><centre><input type="submit" value="Submit"></centre></td></tr>  
+    </table>  </h2>
+    <b><H2>{{complaint_success}}</H2></b>
+    
+    <div id="button"><a href="http://127.0.0.1:5000/">Back to Home</a></div>
+    </form>  
+ 
+    
+</body>
+</html>

@@ -1,0 +1,30 @@
+03-23 22:57:06  werkzeug      INFO    :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+03-23 22:57:10  werkzeug      INFO    : 127.0.0.1 - - [23/Mar/2020 22:57:10] "[37mGET / HTTP/1.1[0m" 200 -
+03-23 22:57:14  werkzeug      INFO    : 127.0.0.1 - - [23/Mar/2020 22:57:14] "[37mGET /regis HTTP/1.1[0m" 200 -
+03-23 22:58:08  root          INFO    : Connected to ABC_complaints.db
+03-23 22:58:08  root          INFO    : <class 'int'>
+03-23 22:58:08  root          INFO    : Inserted values to ABC_complaints.db
+03-23 22:58:08  werkzeug      INFO    : 127.0.0.1 - - [23/Mar/2020 22:58:08] "[37mPOST /regis HTTP/1.1[0m" 200 -
+03-23 22:58:11  werkzeug      INFO    : 127.0.0.1 - - [23/Mar/2020 22:58:11] "[37mGET / HTTP/1.1[0m" 200 -
+03-23 22:58:12  werkzeug      INFO    : 127.0.0.1 - - [23/Mar/2020 22:58:12] "[37mGET /status HTTP/1.1[0m" 200 -
+03-23 22:58:17  root          INFO    : Connected to ABC_complaints.db
+03-23 22:58:17  werkzeug      INFO    : 127.0.0.1 - - [23/Mar/2020 22:58:17] "[37mPOST /status HTTP/1.1[0m" 200 -
+03-23 22:58:22  root          INFO    : Connected to ABC_complaints.db
+03-23 22:58:22  werkzeug      INFO    : 127.0.0.1 - - [23/Mar/2020 22:58:22] "[37mPOST /status HTTP/1.1[0m" 200 -
+03-23 22:58:27  root          INFO    : Connected to ABC_complaints.db
+03-23 22:58:27  root          INFO    : Service personal will meet you retrieved from ABC_complaints.db
+03-23 22:58:27  werkzeug      INFO    : 127.0.0.1 - - [23/Mar/2020 22:58:27] "[37mPOST /status HTTP/1.1[0m" 200 -
+03-23 22:58:40  root          INFO    : Connected to ABC_complaints.db
+03-23 22:58:40  werkzeug      INFO    : 127.0.0.1 - - [23/Mar/2020 22:58:40] "[37mPOST /status HTTP/1.1[0m" 200 -
+03-23 22:59:16  werkzeug      INFO    : 127.0.0.1 - - [23/Mar/2020 22:59:16] "[37mGET / HTTP/1.1[0m" 200 -
+03-23 23:00:39  werkzeug      INFO    : 127.0.0.1 - - [23/Mar/2020 23:00:39] "[37mGET /regis HTTP/1.1[0m" 200 -
+03-23 23:01:54  root          INFO    : Connected to ABC_complaints.db
+03-23 23:01:54  root          INFO    : <class 'int'>
+03-23 23:01:54  root          INFO    : Inserted values to ABC_complaints.db
+03-23 23:01:54  werkzeug      INFO    : 127.0.0.1 - - [23/Mar/2020 23:01:54] "[37mPOST /regis HTTP/1.1[0m" 200 -
+03-23 23:02:55  werkzeug      INFO    : 127.0.0.1 - - [23/Mar/2020 23:02:55] "[37mGET / HTTP/1.1[0m" 200 -
+03-23 23:02:56  werkzeug      INFO    : 127.0.0.1 - - [23/Mar/2020 23:02:56] "[37mGET /status HTTP/1.1[0m" 200 -
+03-23 23:03:00  root          INFO    : Connected to ABC_complaints.db
+03-23 23:03:00  root          INFO    : New bulb has been sent retrieved from ABC_complaints.db
+03-23 23:03:00  werkzeug      INFO    : 127.0.0.1 - - [23/Mar/2020 23:03:00] "[37mPOST /status HTTP/1.1[0m" 200 -
+03-23 23:05:32  werkzeug      INFO    : 127.0.0.1 - - [23/Mar/2020 23:05:32] "[37mGET / HTTP/1.1[0m" 200 -

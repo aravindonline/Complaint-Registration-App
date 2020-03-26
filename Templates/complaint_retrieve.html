@@ -1,0 +1,21 @@
+<html>
+<title>ComplaintRegister</title>
+<head><center>
+<h1>ABC LOGISTICS AND CONTAINER SERVICES INDIA PVT LTD</h1>
+<h2>Complaint Status</h2>
+</centre></head>
+<body>
+
+ <form action = "/status" method="POST">  
+   <h2> <table>  
+          
+        <tr><td>Complaint Reference Number</td><td><input type="number" name="cref"></td></tr>    
+        <tr><td><centre><input type="submit" value="Search"></centre></td></tr>  
+    </table>  </h2>
+    <b><H2>{{complaint_status}}</H2></b>
+    
+    <div id="button"><a href="http://127.0.0.1:5000/">Back to Home</a></div> 
+    </form>  
+   
+</body>
+</html>
