@@ -1,10 +1,26 @@
 <html>
 <title>ComplaintRegister</title>
 <head><center>
+<style>
+    a.link-btn {
+        color: #fff;
+        background: #337ab7;
+        display:inline-block;
+        border: 1px solid #2e6da4;        
+        font: bold 14px Arial, sans-serif;
+        text-decoration: none;
+        border-radius: 2px;
+        padding: 6px 20px;
+    }
+    a.link-btn:hover {
+        background-color: #245582;
+        border-color: #1a3e5b;
+    }
+</style>
 <h1>ABC LOGISTICS AND CONTAINER SERVICES INDIA PVT LTD</h1>
 <h2>Complaint Status</h2>
 </centre></head>
-<body>
+<body bgcolor="silver" background="https://wallpaperaccess.com/full/784198.jpg">
 
  <form action = "/status" method="POST">  
    <h2> <table>  
@@ -14,7 +30,7 @@
     </table>  </h2>
     <b><H2>{{complaint_status}}</H2></b>
     
-    <div id="button"><a href="http://127.0.0.1:5000/">Back to Home</a></div> 
+    <a href="http://127.0.0.1:5000/" class="link-btn">Back to Home Page</a>
     </form>  
    
 </body>
