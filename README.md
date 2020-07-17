@@ -1,6 +1,6 @@
 # ComplaintRegistrationApp
 
-XXX company is a distribution logistics business unit and receiving complaints from its customers
+ABC company is a distribution logistics business unit and receiving complaints from its customers
 through sources of call centre, mails, paper mode, each branch offices, retail offices, back
 operation offices . It has become very difficult to manage complaints to process and feedback to
 business for corrections and improvement.
